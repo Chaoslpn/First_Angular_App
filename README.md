@@ -1,5 +1,7 @@
-# 01MyFirstApp
+# My First App
 
+This app was made following the Tutorial of the Angular Docs (https://angular.dev/tutorials/first-app).
+There are some parts of the Tutorial that weren't that good in explaining and a lot of thinking had to be done.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
 
 ## Development server
